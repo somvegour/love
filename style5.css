@@ -1,0 +1,16 @@
+body {
+    justify-content: center;
+    align-items: center;
+
+    background-color: rgb(206, 159, 175);
+    text-align: center;
+
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
+
+
+

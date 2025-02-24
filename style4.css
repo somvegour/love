@@ -1,0 +1,22 @@
+body{
+    justify-content: center;
+    align-items: center;
+    margin-top: 8%;
+    
+    text-align: center;
+    background-color: rgba(209, 100, 158, 0.527);
+}
+
+#yes{
+    margin-right: 45px;
+    background-color: burlywood;
+   
+} 
+#NO{
+    background-color: burlywood;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}

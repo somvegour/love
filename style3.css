@@ -1,0 +1,20 @@
+body{
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+    text-align: center;
+    background-color: rgb(226, 148, 190);
+}
+
+#yes{
+    margin-right: 45px;
+    background-color: burlywood;
+   
+} 
+#NO{
+    background-color: burlywood;
+}
+img{
+    height: 200px;
+    width: 200px;
+}

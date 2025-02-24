@@ -1,0 +1,26 @@
+body {
+    justify-content: center;
+    align-items: center;
+
+    background-color: rgb(206, 159, 175);
+    text-align: center;
+
+}
+
+#yes{
+    background-color: violet;
+   
+} 
+#no{margin-left:50PX;
+background-color: violet;
+
+}
+H1{
+    text-decoration: dashed;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 200%;
+}
+h4{
+    font-size: 150%;
+}
+
